@@ -1,6 +1,6 @@
 cask "lumen" do
-  version "1.2.0"
-  sha256 "9ed869ba3f97d623db46ffb3cf06f819b5183a0adad62696b564496712825210"
+  version "1.3.0"
+  sha256 "cf9f09b10cda72d5800e94b485e5ade7c469ab15baa712721e82dd8d681f1917"
 
   url "https://github.com/lumenshell/lumen/releases/download/v#{version}/lumen-macos.zip"
   name "Lumen"
